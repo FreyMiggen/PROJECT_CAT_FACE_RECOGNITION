@@ -1,6 +1,4 @@
 
-After cloning the project, please decompress img_db.rar in to 0 folder for the project to function properly. The folder img_db shall directly contain 32 sub folders.
-
 # Cat-Face-Verification
 A model using triplet loss to solve the task of cat face verification. Code for this project could be found at <a href='https://github.com/FreyMiggen/Cat-Face-Verification/tree/master'>FreyMiggen-cat-verification</a>.
 Some more detail on the performance of this project could be found at <a href ='https://freymiggen.github.io/Cat-Face-Verification/'>Report</a>
